@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vid-27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true&theme=react&count_private=true&hide_border=true&custom_title=My Github Statistics&bg_color=35,21222A,0000" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vid-27&show_icons=true&theme=react&count_private=true&hide_border=true&custom_title=My Github Statistics&bg_color=35,21222A,110121" />
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sumathividhya)](https://github.com/gazf/github-readme-twitter)
