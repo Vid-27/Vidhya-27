@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hello there :wave: Vidhya Lakshmi here!
 ### Budding Tech Enthusiast, Curiouser & a Self-Learner :seedling:
 
-- :telescope: I'm currently learning **Web development**.
+- :telescope: I'm currently learning **Web Development**.
 - :computer: Passionate in **programming.**
 - :speech_balloon: Languages I know **C, C++, Python, Java, HTML, CSS, JavaScript.**
 - :mailbox: How to reach me [vidhyasumathi27@outlook.com](mailto:vidhyasumathi27@outlook.com)
